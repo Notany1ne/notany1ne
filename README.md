@@ -1,4 +1,4 @@
-### ~~ Hi there welcome to my respositories 👋
+### ~~ Hi there welcome to my repositories 👋
 
 💬 You can reach me through discord.
 
