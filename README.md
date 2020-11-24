@@ -1,7 +1,11 @@
 ### ~~ Hi there welcome to my respositories 👋
+
 💬 You can reach me through discord.
+
 ✨ My real name is Tobias.
+
 😄 I'm from the Philippines!
+
 🌱 I'm currently learning Bat files and Javascript.
 ### 📫 Discord : notany1ne#0063
 <!--
