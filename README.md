@@ -2,12 +2,10 @@
 
 💬 You can reach me through discord.
 
-✨ My real name is Tobias.
-
 😄 I'm from the Philippines!
 
 🌱 I'm currently learning Bat files and Javascript.
-### 📫 Discord : notany1ne#0063
+### 📫 Discord : NotTobi#6905
 <!--
 **Notany1ne/notany1ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
