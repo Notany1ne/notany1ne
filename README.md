@@ -5,7 +5,7 @@
 😄 I'm from the Philippines!
 
 🌱 I'm currently learning Bat files and Javascript.
-### 📫 Discord : okaypogchamp#1278
+### 📫 Discord : Gabb#4768
 <!--
 **Notany1ne/notany1ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
